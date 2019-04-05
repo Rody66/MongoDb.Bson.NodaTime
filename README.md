@@ -36,6 +36,10 @@ BsonSerializer.RegisterSerializer(new InstantSerializer());
 * Duration
 * ZonedDateTime
 
+#Updated by Rody66
+* LocalInterval
+* TimeInterval
+
 # Dependencies
 
 * NodaTime v1.3.2 for 1.3.0, v2.2.0 therafter
